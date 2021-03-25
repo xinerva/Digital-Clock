@@ -1,0 +1,9 @@
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\bin\Release\DigitalClock.exe.config
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\bin\Release\DigitalClock.exe
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\bin\Release\DigitalClock.pdb
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\obj\Release\DigitalClock.Form1.resources
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\obj\Release\DigitalClock.Properties.Resources.resources
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\obj\Release\DigitalClock.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\obj\Release\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\obj\Release\DigitalClock.exe
+C:\Users\abdul\source\repos\DigitalClock\DigitalClock\obj\Release\DigitalClock.pdb
